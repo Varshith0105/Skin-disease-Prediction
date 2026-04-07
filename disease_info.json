@@ -1,0 +1,44 @@
+{
+    "Actinic keratoses": {
+        "description": "Precancerous skin growth caused by sun damage.",
+        "recommendations": "Avoid direct sun exposure, wear protective clothing, and use broad-spectrum sunscreen. Monitor for changes in size, color, or shape, and consult a dermatologist regularly.",
+        "medications": "Topical treatments (e.g., fluorouracil, imiquimod), cryotherapy, or photodynamic therapy as prescribed by a doctor.",
+        "diet_plan": "Consume an antioxidant-rich diet with plenty of fruits, vegetables, and omega-3 fatty acids to support skin repair."
+    },
+    "Basal cell carcinoma": {
+        "description": "A type of skin cancer that most often develops on areas of skin exposed to the sun.",
+        "recommendations": "Immediate medical evaluation is necessary. Avoid sun exposure and use high SPF sunscreen daily.",
+        "medications": "Surgical removal, topical treatments for superficial cases (imiquimod, 5-fluorouracil), or radiation therapy under medical supervision.",
+        "diet_plan": "A diet high in vitamins A, C, and E, and zinc to promote immune function and skin healing."
+    },
+    "Benign keratosis": {
+        "description": "A common, non-cancerous skin growth that usually appears as a brown, black or light tan growth.",
+        "recommendations": "Usually harmless and doesn't require treatment unless it is irritated or for cosmetic reasons. Use moisturizer to prevent dryness and itching.",
+        "medications": "Over-the-counter moisturizers with alpha-hydroxy acids or urea can help soften the lesions. Medical removal (cryosurgery, electrocautery) if necessary.",
+        "diet_plan": "Maintain a balanced, healthy diet to support overall skin health. Ensure adequate hydration."
+    },
+    "Dermatofibroma": {
+        "description": "Common noncancerous skin growths that are firm and often appear on the lower legs.",
+        "recommendations": "Generally require no treatment unless they are painful, itchy, or cosmetically undesired. Avoid scratching or picking.",
+        "medications": "No specific medications required unless symptomatic. Corticosteroid injections can flatten them, or surgical excision if removal is desired.",
+        "diet_plan": "Anti-inflammatory diet to lower overall systemic inflammation, focusing on fresh produce, nuts, and fish."
+    },
+    "Melanocytic nevi": {
+        "description": "Commonly known as moles, these are usually noncancerous growths of pigment cells.",
+        "recommendations": "Perform monthly self-exams using the ABCDE guidelines (Asymmetry, Border, Color, Diameter, Evolving). See a dermatologist if any mole changes or bleeds.",
+        "medications": "Not applicable unless they become atypical or malignant, at which point biopsy and surgical removal are considered.",
+        "diet_plan": "A standard balanced diet is sufficient. Sun protection is key."
+    },
+    "Melanoma": {
+        "description": "The most serious type of skin cancer, develops in the cells that produce melanin.",
+        "recommendations": "Urgent consultation with an oncologist and dermatologist. Avoid all deliberate sun exposure and tanning beds. Regular, thorough skin checks.",
+        "medications": "Depending on the stage, treatments include surgical excision, immunotherapy (e.g., Keytruda, Opdivo), targeted therapy, or chemotherapy.",
+        "diet_plan": "A highly nutritious diet supporting the immune system during treatment. Consult a clinical dietitian for personalized oncology nutrition."
+    },
+    "Vascular lesions": {
+        "description": "Arise from malformed blood vessels and include conditions like cherry angiomas or spider veins.",
+        "recommendations": "Most are benign. Protect skin from injury and harsh sunlight. If bleeding occurs or for cosmetic reasons, consult a specialist.",
+        "medications": "Laser therapy or intense pulsed light (IPL) are common treatments. In some cases, sclerotherapy is used.",
+        "diet_plan": "A diet rich in bioflavonoids and vitamin C, such as citrus fruits, berries, and leafy greens, may help strengthen blood vessel walls."
+    }
+}
