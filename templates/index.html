@@ -805,10 +805,8 @@
   </footer>
 
   <script>
-    // For local Docker Compose networking
-    const API_URL = window.location.hostname === 'localhost'
-      ? 'http://localhost:5000'
-      : 'http://127.0.0.1:5000'; // Edited to hit local server properly if hostname differs
+    // Automatically use the correct URL whether on localhost or deployed to Render
+    const API_URL = '';
 
     let currentPatientData = null;
 
