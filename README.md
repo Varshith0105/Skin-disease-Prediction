@@ -25,6 +25,9 @@ This project bridges the gap between AI technology and accessible healthcare, pa
 ---
 
 ## 👥 Team Members
+
+| Name |
+|------|
 | Julakanti Varshith |
 | Bojja Likita Reddy |
 | Manish Reddy P |
@@ -319,9 +322,6 @@ This project is created as part of the **Engineering Clinics Project** at VIT-AP
 ---
 
 ## 🙏 Acknowledgments
-
-- VIT-AP University & SCOPE Department
-- Prof. Ajith Jubilson E (Project Guide)
 - Open-source community (TensorFlow, Flask, Firebase)
 - Twilio for WhatsApp API
 - OpenStreetMap for geolocation services
